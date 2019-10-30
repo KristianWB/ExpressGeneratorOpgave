@@ -1,0 +1,5 @@
+Klasse opave
+
+byg en node.js server ved brug af Express framework
+
+Jeg undlader at committe node_modules mappen ved brug af en .gitignore fil i projekt roden
